@@ -2,7 +2,7 @@
 
 # Hi, I'm Cuong.
 
-I'm a student developer working across **C#/.NET** backends and **React/TypeScript** frontends.
+I'm a student developer working across **C#/.NET** backends and **React/TypeScript** frontends. I helped build [VocabLearning](https://github.com/SCuong/PBL3_vocab_web), an English vocabulary app with spaced repetition.
 
 ---
 
